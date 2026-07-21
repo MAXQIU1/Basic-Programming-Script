@@ -1,4 +1,4 @@
-# BPS 解释器 
+# BPS 编程语言 
 
 ## 1. 简介
 BPS（Basic Programming Script）是一门轻量级解释型脚本语言，专为网络自动化任务设计。本项目是其参考解释器实现。
