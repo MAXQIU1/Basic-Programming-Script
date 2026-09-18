@@ -19,4 +19,4 @@
 
 官方网站：bps.shdiv.net/bps
 
-Copyright © 2025-2026 Shanghai Advanced Digital Technologies Studio. All rights reserved.
+Copyright © 2025-2026 Shanghai Advanced Digitech Studio. All rights reserved.
